@@ -1,0 +1,17 @@
+*{
+    margin: 10px auto;
+}
+#box2{
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    align-items: flex-start;
+    height: 200px;
+    width: 500px;
+}
+#box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
